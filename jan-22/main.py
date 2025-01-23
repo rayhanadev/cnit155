@@ -9,10 +9,15 @@
 #=========================================================================
 
 def main():
+    # Define some variables to replace the placeholders in the output string
+    name = "Rayhan Noufal Arayilakath"
+    email = "rayhan@purdue.edu"
+
+    # Define the output string, using the variables above to replace the placeholders
     output = f"""
 \t================================================
-\t*        Name: Rayhan Noufal Arayilakath       *
-\t*           Email: rayhan@purdue.edu           *
+\t*        Name: {name}       *
+\t*           Email: {email}           *
 \t*             CNIT155-Assignment 01            *
 \t================================================
 
@@ -34,8 +39,12 @@ def main():
 \t    11                     55                 55
 \t1111111111         555555555          555555555
     """
+
+    # Print the output string to the console using the print() function
     print(output)
 
 
+# This line calls the main() function when the program is run
+# from the command line. This is the standard way to start a Python program.
 if __name__ == "__main__":
     main()
