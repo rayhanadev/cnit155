@@ -1,5 +1,5 @@
 #=========================================================================
-# Name & Lab Section: Rayhan Noufal Arayilakath, Friday 7:30 AM
+# Name & Lab Section: Rayhan Noufal Arayilakath, Thursday 11:30 AM
 # Purdue Email: rayhan@purdue.edu
 # Program Description: This program outputs text to the console.
 # Academic Honesty:

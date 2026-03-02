@@ -1,5 +1,5 @@
 # ===============================================================
-# Name & Lab Section: Rayhan Noufal Arayilakath, Thursday 9:30 AM
+# Name & Lab Section: Rayhan Noufal Arayilakath, Summer 2025
 # Purdue Email: rayhan@purdue.edu
 # Program Description: This program calculates the temperature given an input in Fahrenheit.
 # Academic Honesty:

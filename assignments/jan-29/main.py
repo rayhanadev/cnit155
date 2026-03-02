@@ -10,18 +10,6 @@
 
 
 def main():
-    # Define the output string for the header
-    output = """
-\t================================================
-\t*             CNIT155 Assignment 02            *
-\t*                                              *
-\t*             Conversion Calculator            *
-\t================================================
-    """
-
-    # Print the output string to the console using the print() function
-    print(output)
-
     # Prompt the user to enter their name
     name = input("==> Enter your name: ")
 

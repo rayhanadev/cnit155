@@ -1,5 +1,5 @@
 #===============================================================
-# Name & Lab Section: Rayhan Noufal Arayilakath, Friday 7:30 AM
+# Name & Lab Section: Rayhan Noufal Arayilakath, Spring 2026
 # Purdue Email: rayhan@purdue.edu
 # Program Description: This program calculates the temperature given an input in Fahrenheit.
 # Academic Honesty:
@@ -10,7 +10,7 @@
 
 def main():
     print("Hello World!")
-    print("This is my first Python program!\n")
+    print("This is my first Python program!")
 
     # Prompt the user for the temperature in Fahrenheit
     # This is a floating-point number, which means it can have decimal places.

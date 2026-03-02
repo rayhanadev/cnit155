@@ -1,5 +1,5 @@
 # ===============================================================
-# Name & Lab Section: Rayhan Noufal Arayilakath, Thursday 9:30 AM
+# Name & Lab Section: Rayhan Noufal Arayilakath, Thursday 11:30 AM
 # Purdue Email: rayhan@purdue.edu
 # Program Description: This Python program takes the user’s input and calculates
 # the side area, bottom area, and volume of a pool.
